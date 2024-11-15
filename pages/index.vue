@@ -12,7 +12,7 @@
                         <p class="card-text moto-description">Într-o lume plină de mișcare și energie, corpul uman este o comoară prețioasă ce necesită îngrijire și atenție. </p>
                     </div>
                     <div class="contact-button">
-                        <a href="">
+                        <a  href="tel:+40728937425">
                             <button class="top-section-button"> 
                                 <Icon name="material-symbols:call" size="1.7rem" style="margin-right: 0.7rem;" /> 
                                 <span>Contactați-ne</span>
@@ -99,9 +99,9 @@
                     <b>Informații de Contact:</b>
                 </p>
                 <p class="simple-text" style="margin-left: 1rem;">
-                    • Adresă: <b>Adresa</b>
-                    <br>• Telefon: <a class="simple-text" href="" style="text-decoration: none;"><b>[]</b></a>
-                    <br>• Email: <b>[]</b>
+                    • Adresă: <b>Strada Sacel Nr.44, Sibiu</b>
+                    <br>• Telefon: <a class="simple-text" href="tel:+40728937425" style="text-decoration: none;"><b>+40 728 937 425</b></a>
+                    <br>• Email: <b>fizioterapie.sibiu@gmail.com</b>
                     <br>• Website: <b>fizioterapie-sibiu.ro</b>
                 </p>
                 <p class="simple-text">
