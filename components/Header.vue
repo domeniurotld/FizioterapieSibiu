@@ -10,7 +10,7 @@
           <button class="tab-button" @click="goToHomeSection('contact')">Contact</button>
         </nav>
         <div class="row" style="display: flex; justify-content: end; width: auto; position: absolute; right: 5rem;">
-          <a href="tel:+40728937425">
+          <a href="tel:+40756638203">
               <button class="tab-button" style="display: inline-flex; align-items: center;"> 
                   <Icon name="material-symbols:call" size="1.7rem" style="margin-right: 0.7rem;" /> 
                   <span>Contactați-ne</span>
@@ -31,7 +31,7 @@
           </div>
         </nav>
         <div style="display: flex; justify-content: center; width: 100%; margin-top: 1rem; margin-bottom: 0.5rem;">
-          <a href="tel:+40728937425">
+          <a href="tel:+40756638203">
               <button class="tab-button" style="display: inline-flex; align-items: center;"> 
                   <Icon name="material-symbols:call" size="1.7rem" style="margin-right: 0.7rem;" /> 
                   <span>Contactați-ne</span>

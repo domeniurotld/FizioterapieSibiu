@@ -12,7 +12,7 @@
                         <p class="card-text moto-description">Într-o lume plină de mișcare și energie, corpul uman este o comoară prețioasă ce necesită îngrijire și atenție. </p>
                     </div>
                     <div class="contact-button">
-                        <a  href="tel:+40728937425">
+                        <a  href="tel:+40756638203">
                             <button class="top-section-button"> 
                                 <Icon name="material-symbols:call" size="1.7rem" style="margin-right: 0.7rem;" /> 
                                 <span>Contactați-ne</span>
@@ -34,6 +34,21 @@
                 </p>
                 <p class="simple-text" style="margin-bottom: 0;">
                     Fizioterapia nu doar ca tratează problemele existente, dar previne și reapariția acestora, oferindu-ți un stil de viață sănătos și activ pe termen lung. Prin implicarea ta activă în procesul de recuperare, vei descoperi că fizioterapia nu este doar un tratament, ci o călătorie către o viață plină de mobilitate, sănătate și vitalitate.
+                </p>
+            </div>
+        </div>
+        <div class="section-content" style="padding-top: 2.5rem;">
+            <div class="text-content">
+                <h1 class="page-title">Alte servicii</h1>
+                <hr>
+                <p class="simple-text">
+                    • Servicii de <strong>kinetoterapie</strong>
+                </p>
+                <p class="simple-text">
+                    • Servicii de <strong>masaj</strong>
+                </p>
+                <p class="simple-text" style="margin-bottom: 0;">
+                    • Servicii de <strong>drenaj limfatic</strong>
                 </p>
             </div>
         </div>
@@ -100,7 +115,7 @@
                 </p>
                 <p class="simple-text" style="margin-left: 1rem;">
                     • Adresă: <b>Strada Sacel Nr.44, Sibiu</b>
-                    <br>• Telefon: <a class="simple-text" href="tel:+40728937425" style="text-decoration: none;"><b>+40 728 937 425</b></a>
+                    <br>• Telefon: <a class="simple-text" href="tel:+40756638203" style="text-decoration: none;"><b>+40 756 638 203</b></a>
                     <br>• Email: <b>fizioterapie.sibiu@gmail.com</b>
                     <br>• Website: <b>fizioterapie-sibiu.ro</b>
                 </p>

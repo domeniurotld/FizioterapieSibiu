@@ -12,7 +12,7 @@
           <div class="footer-title">Contactați-ne</div>
           <div class="contact-info">
             <Icon name="material-symbols:call-sharp" size="1.1rem" class="contact-icon" />
-            <a href="tel:+40728937425" class="footer-text mobile-number">+40 728 937 425</a>
+            <a href="tel:+40756638203" class="footer-text mobile-number">+40 756 638 203</a>
           </div>
           <div class="contact-info">
             <Icon name="material-symbols-light:mail-rounded" size="1.2rem" class="contact-icon" />
